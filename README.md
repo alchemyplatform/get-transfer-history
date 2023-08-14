@@ -1,5 +1,5 @@
 ## Overview
-This repository contains a JavaScript script that utilizes Alchemy's SDK to fetch the historical transaction for an address which can be filtered by token types (i.e. ERC20, ERC721, etc.).For each transfer, the fields below are printed, however, to see all fields refer to the [Alchemy API reference](https://docs.alchemy.com/reference/sdk-getassettransfers):
+This repository contains a JavaScript script that utilizes Alchemy's SDK to fetch the historical transaction for an address which can be filtered by token types (i.e. ERC20, ERC721, etc.). For each transfer, the fields below are printed, however, to see all fields refer to the [Alchemy API reference](https://docs.alchemy.com/reference/sdk-getassettransfers):
 
 - the from address of the transfer
 - the to address of the transfer
